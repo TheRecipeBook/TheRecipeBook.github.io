@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wings on The Recipe Book</title>
+    <link>https://therecipebook.github.io/tags/wings/</link>
+    <description>Recent content in wings on The Recipe Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2020 14:31:23 -0400</lastBuildDate>
+    
+	<atom:link href="https://therecipebook.github.io/tags/wings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Easy Air Fryer Wings</title>
+      <link>https://therecipebook.github.io/posts/easy-air-fryer-wings/</link>
+      <pubDate>Sun, 12 Apr 2020 14:31:23 -0400</pubDate>
+      
+      <guid>https://therecipebook.github.io/posts/easy-air-fryer-wings/</guid>
+      <description>Easy Air Fryer cooking method for naked wings. Cover with your own sauce, ranch or eat them naked after cooking
+INGREDIENTS:
+ Nonstick cooking spray, for the basket Thawed Wings  INSTRUCTIONS:
+  Spray the basket of a 3.5-quart air fryer with cooking spray and set aside.
+  Pat the chicken wings dryPlace the wings in the fryer basket so they are not touching
+  Set the air fryer to 360 degrees F and cook for 12 minutes, then flip the wings with tongs and cook for 12 minutes more.</description>
+    </item>
+    
+  </channel>
+</rss>

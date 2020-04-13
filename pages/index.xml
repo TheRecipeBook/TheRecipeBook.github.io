@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on The Recipe Book</title>
+    <link>https://therecipebook.github.io/pages/</link>
+    <description>Recent content in Pages on The Recipe Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2020 14:47:09 -0400</lastBuildDate>
+    
+	<atom:link href="https://therecipebook.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://therecipebook.github.io/pages/about/</link>
+      <pubDate>Sun, 12 Apr 2020 14:47:09 -0400</pubDate>
+      
+      <guid>https://therecipebook.github.io/pages/about/</guid>
+      <description>I created this site to host, my favorite recipes so i organize them and share them. Also i don&amp;rsquo;t have to read trough a a life&amp;rsquo;s story before i get to the meat and potatoes of the recipe.
+Also i don&amp;rsquo;t have to scroll thought 50 ads.</description>
+    </item>
+    
+    <item>
+      <title>Cooking Charts</title>
+      <link>https://therecipebook.github.io/pages/cooking-charts/</link>
+      <pubDate>Sun, 12 Apr 2020 14:46:30 -0400</pubDate>
+      
+      <guid>https://therecipebook.github.io/pages/cooking-charts/</guid>
+      <description>   Meat         Chicken       Pork       Beef       Fish        </description>
+    </item>
+    
+  </channel>
+</rss>

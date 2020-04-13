@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The Recipe Book</title>
+    <link>https://therecipebook.github.io/tags/</link>
+    <description>Recent content in Tags on The Recipe Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2020 16:11:53 -0400</lastBuildDate>
+    
+	<atom:link href="https://therecipebook.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Steak</title>
+      <link>https://therecipebook.github.io/tags/steak/</link>
+      <pubDate>Sun, 12 Apr 2020 16:11:53 -0400</pubDate>
+      
+      <guid>https://therecipebook.github.io/tags/steak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air Fryer</title>
+      <link>https://therecipebook.github.io/tags/air-fryer/</link>
+      <pubDate>Sun, 12 Apr 2020 14:31:23 -0400</pubDate>
+      
+      <guid>https://therecipebook.github.io/tags/air-fryer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wings</title>
+      <link>https://therecipebook.github.io/tags/wings/</link>
+      <pubDate>Sun, 12 Apr 2020 14:31:23 -0400</pubDate>
+      
+      <guid>https://therecipebook.github.io/tags/wings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breakfast</title>
+      <link>https://therecipebook.github.io/tags/breakfast/</link>
+      <pubDate>Sun, 12 Apr 2020 14:02:23 -0400</pubDate>
+      
+      <guid>https://therecipebook.github.io/tags/breakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egg</title>
+      <link>https://therecipebook.github.io/tags/egg/</link>
+      <pubDate>Sun, 12 Apr 2020 14:02:23 -0400</pubDate>
+      
+      <guid>https://therecipebook.github.io/tags/egg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
