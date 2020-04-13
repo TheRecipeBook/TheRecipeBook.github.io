@@ -6,10 +6,19 @@
     <description>Recent content on The Recipe Book</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2020 16:11:53 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 09:17:31 -0400</lastBuildDate>
     
 	<atom:link href="https://therecipebook.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Its Alive</title>
+      <link>https://therecipebook.github.io/news/its-alive/</link>
+      <pubDate>Mon, 13 Apr 2020 09:17:31 -0400</pubDate>
+      
+      <guid>https://therecipebook.github.io/news/its-alive/</guid>
+      <description>Site went live on 04-13-2020 @ 9:20AM</description>
+    </item>
     
     <item>
       <title>Worlds Best Steak Marinade</title>

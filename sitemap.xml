@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://therecipebook.github.io/news/its-alive/</loc>
+    <lastmod>2020-04-13T09:17:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://therecipebook.github.io/news/</loc>
+    <lastmod>2020-04-13T09:17:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://therecipebook.github.io/</loc>
+    <lastmod>2020-04-13T09:17:31-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://therecipebook.github.io/categories/</loc>
     <lastmod>2020-04-12T16:11:53-04:00</lastmod>
   </url>
@@ -24,11 +39,6 @@
   
   <url>
     <loc>https://therecipebook.github.io/tags/</loc>
-    <lastmod>2020-04-12T16:11:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://therecipebook.github.io/</loc>
     <lastmod>2020-04-12T16:11:53-04:00</lastmod>
   </url>
   
