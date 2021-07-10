@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beef on The Recipe Book</title>
+    <link>https://therecipebook.github.io/tags/beef/</link>
+    <description>Recent content in Beef on The Recipe Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jul 2021 13:08:18 -0400</lastBuildDate>
+    
+	<atom:link href="https://therecipebook.github.io/tags/beef/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meat Loaf</title>
+      <link>https://therecipebook.github.io/posts/meat-loaf/</link>
+      <pubDate>Sat, 10 Jul 2021 13:08:18 -0400</pubDate>
+      
+      <guid>https://therecipebook.github.io/posts/meat-loaf/</guid>
+      <description>INGREDIENTS:
+ 2 lbs Hamburger Meat 2 eggs 1 can Rotel 1/2 cup water 1 cup crushed Pork rinds Worcestershire sauce pepper Garlic powder   Topping:
+ 1/4 cup brown sugar 2-3 squirts of mustard 1/3 cup catsup  INSTRUCTIONS:
+Mix All INGREDIENTS together put in shallow dish linded with tinfoil make into loaf shape bake 350 degrees for 1hr</description>
+    </item>
+    
+  </channel>
+</rss>
